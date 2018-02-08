@@ -21,7 +21,8 @@ Dr. Ball is Associate Professor of Digital Publishing Studies, Director of the D
 * 3pm – 4:30pm: Panel discussion
 * 4:30pm: Closing remarks
 
-Panelists:
+**Panelists:**
+
 * Cheryl Ball, Director, Digital Publishing Collaborative — Wayne State University; Editor, Kairos: A Journal of Rhetoric, Technology, and Pedagogy; Executive Director, Council of Editors of Learned Journals
 
 * Renaine Julian, Associate Director of STEM Libraries, Florida State University
