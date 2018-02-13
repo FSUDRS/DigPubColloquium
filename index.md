@@ -12,6 +12,7 @@ Dr. Ball is Associate Professor of Digital Publishing Studies, Director of the D
 ********************************************
 
 **Event Location:** Dirac Library Conference Room (216)
+**Live Stream feed:** [https://fsudrs.github.io/DigPubColloquium/stream]
 
 **Schedule:** 
 
